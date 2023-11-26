@@ -204,7 +204,7 @@ footer {
 
 /* Adicione as regras de mídia para tablets */
 /* Adicione as regras de mídia para tablets */
-@media only screen and (min-width: 819px) and (max-width: 1135px) {
+@media only screen and (min-width: 768px) and (max-width: 1135px) {
     body {
         display: flex;
         flex-direction: column;
