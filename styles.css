@@ -145,7 +145,6 @@ header h1 {
     height: 240px;
     margin-bottom: 20px;
     border-radius: 8px;
-    
 }
 
 .buy-button {
@@ -205,7 +204,7 @@ footer {
 
 /* Adicione as regras de mídia para tablets */
 /* Adicione as regras de mídia para tablets */
-@media only screen and (min-width: 768px) and (max-width: 768x) {
+@media only screen and (min-width: 768px) and (max-width: 1135px) {
     body {
         display: flex;
         flex-direction: column;
